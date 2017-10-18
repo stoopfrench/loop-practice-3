@@ -33,7 +33,7 @@ var students = [{
 
 // for(var i = 0; i < students.length; i++) {
 
-// 	console.log(students[i].name, students[i].city);
+// 	console.log(students[i].name + ', ' + students[i].city);
 // }
 
 
